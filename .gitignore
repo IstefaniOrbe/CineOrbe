@@ -1,0 +1,13 @@
+# Release assets belong in GitHub Releases, never in Git history.
+*.exe
+*.apk
+*.asar
+*.blockmap
+*.keystore
+*.jks
+*.pem
+*.key
+.env
+.env.*
+node_modules/
+dist/
